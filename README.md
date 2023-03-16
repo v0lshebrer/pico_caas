@@ -1,5 +1,5 @@
 # pico_caas
-A simple script to automate command injection vulnerability in caas ctf from picoCTF
+A simple Command-Line script to automate command injection vulnerability in caas ctf from picoCTF using terminal.
 
 Usage : <caas.py> <'command'>
 
